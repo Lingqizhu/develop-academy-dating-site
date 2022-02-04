@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/develop-academy-dating-site/static/css/main.10119d57.css",
+    "main.js": "/develop-academy-dating-site/static/js/main.ab1dbe8e.js",
+    "static/js/787.e95621eb.chunk.js": "/develop-academy-dating-site/static/js/787.e95621eb.chunk.js",
+    "index.html": "/develop-academy-dating-site/index.html",
+    "main.10119d57.css.map": "/develop-academy-dating-site/static/css/main.10119d57.css.map",
+    "main.ab1dbe8e.js.map": "/develop-academy-dating-site/static/js/main.ab1dbe8e.js.map",
+    "787.e95621eb.chunk.js.map": "/develop-academy-dating-site/static/js/787.e95621eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10119d57.css",
+    "static/js/main.ab1dbe8e.js"
+  ]
+}
